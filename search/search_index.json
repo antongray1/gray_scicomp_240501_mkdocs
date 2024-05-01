@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"user-guide/contributions/","title":"Contributions","text":"<p>testing</p>"},{"location":"user-guide/run/","title":"3. Running the Pipeline","text":"<p>test</p>"}]}
